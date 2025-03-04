@@ -1,1 +1,1 @@
-# BMI-Calculator-with-AI
+Calculates BMI and categorizes as underweight, normal, or overweight.
